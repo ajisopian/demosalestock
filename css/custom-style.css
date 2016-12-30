@@ -65,6 +65,15 @@ html,body{
 	box-shadow: none !important;
 }
 
+.custom-combox{
+	border:1px solid #dadada;
+	border-radius: 0px !important;
+}
+.custom-textarea{
+	border:1px solid #dadada;
+	border-radius: 0px !important;
+}
+
 .ui-input-text.ui-custom {
     border: 1px solid #dadada;
     box-shadow: none;
